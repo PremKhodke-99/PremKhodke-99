@@ -53,7 +53,7 @@ Hello, I am Prem an enthusiastic front-end as-well-as backend developer speciali
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=PremKhodke-99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PremKhodke-99&theme=vue-dark&hide_border=false)<br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremKhodke-99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremKhodke-99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
