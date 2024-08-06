@@ -50,16 +50,16 @@ Hello, I am Prem an enthusiastic front-end as-well-as backend developer speciali
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) -->
 
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=PremKhodke-99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<!-- # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PremKhodke-99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PremKhodke-99&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremKhodke-99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremKhodke-99&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- ### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PremKhodke-99&icon=8&color=3)](https://visitcount.itsvg.in)
